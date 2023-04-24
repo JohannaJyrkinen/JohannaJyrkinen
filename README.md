@@ -1,4 +1,16 @@
-### Hi there 👋
+### About me:
+
+- I'm currently working on University of Helsinki's Full Stack Open MOOC
+- I recently graduated from coding bootcamp
+
+### Tech Stack
+
+- Languages: Java, JavaScript
+- Frameworks: ReactJS, Redux, Spring Boot
+- Databases: MySQL
+- Learning: TypeScript, C#
+
+
 
 <!--
 **JohannaJyrkinen/JohannaJyrkinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
