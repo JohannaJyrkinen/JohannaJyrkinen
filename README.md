@@ -2,6 +2,7 @@
 
 - I'm currently working on University of Helsinki's Full Stack Open MOOC
 - I recently graduated from coding bootcamp
+- I used to be a radiographer, working mostly with MRI. So I know what your insides look like 🩻
 
 ### Tech Stack
 
